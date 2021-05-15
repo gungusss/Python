@@ -1,6 +1,5 @@
-# Python <img src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" width="50" height="50" style = "display:inlineblock;vertical-align: middle;">
+# Python <img src="https://cdn.discordapp.com/attachments/796425380726571028/843228583677657108/python.png" width="100" height="100" style="display:inlineblock;" align="right">
 
-<br>
 
 ## [KetDonk](http://github.com/KetDonk)
   - CoolTriangle.py
