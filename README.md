@@ -1,4 +1,4 @@
-# Python <img src="https://cdn.discordapp.com/attachments/796425380726571028/843227823497412618/yeah.png" width="100" height="100" style="display:inlineblock;" align="right">
+# Python <img src="https://cdn.discordapp.com/attachments/796425380726571028/843227823497412618/yeah.png" width="110" height="100" style="display:inlineblock;" align="right">
 
 
 ## [KetDonk](http://github.com/KetDonk)
