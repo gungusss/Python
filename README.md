@@ -16,7 +16,7 @@
   - countdown.py
 
 ## [Gungusss](http://github.com/gungusss)
-  - Nothing Bruh
+  - YOUR MUM
 
 
 
